@@ -1,3 +1,3 @@
+#pragma once
 #include<arm_neon.h>
-void neon_test();
-void poly();
+extern void neon_test();

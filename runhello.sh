@@ -1,0 +1,1 @@
+/home/wg/cppjob/worker/cmaketest/bin/a.out
