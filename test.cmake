@@ -1,0 +1,5 @@
+function(fn1 arg1)
+    message("arg1=${arg1}") 
+    set(arg1 "def")
+    message("arg1=${arg1}") 
+endfunction()
