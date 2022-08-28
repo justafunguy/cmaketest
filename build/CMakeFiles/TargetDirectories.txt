@@ -1,0 +1,2 @@
+/home/wg/worker/makefiletest/build/CMakeFiles/rebuild_cache.dir
+/home/wg/worker/makefiletest/build/CMakeFiles/edit_cache.dir

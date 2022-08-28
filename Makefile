@@ -11,3 +11,4 @@ clean:
 .DEFAULT_GOAL:=$(target)
 install:
 	cp a.out ../
+
