@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(CMakeLists.txt&&Makefile)
+project(CMakeLists.txt_Makefile)
 include_directories(${CMAKE_SOURCE_DIR}/header)
 include(test.cmake)
 set(abc "ABC")
@@ -10,6 +10,8 @@ if(abc STREQUAL "def")
 endif()
 message("abc=${abc}")
 configure_file(main.cpp ${CMAKE_SOURCE_DIR}/main.cpp)
+add_subdirectory(subcmake1)
+add_subdirectory(subcmake2)
 add_executable(a.out main.cpp test.cpp)
-
-
+target_link_libraries(a.out ${PROJECT_NAME})
+message("in parent: project_name=${PROJECT_NAME}")

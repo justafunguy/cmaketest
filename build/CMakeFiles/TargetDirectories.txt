@@ -1,0 +1,9 @@
+/home/wg/worker/makefiletest/build/CMakeFiles/rebuild_cache.dir
+/home/wg/worker/makefiletest/build/CMakeFiles/edit_cache.dir
+/home/wg/worker/makefiletest/build/CMakeFiles/a.out.dir
+/home/wg/worker/makefiletest/build/subcmake1/CMakeFiles/edit_cache.dir
+/home/wg/worker/makefiletest/build/subcmake1/CMakeFiles/rebuild_cache.dir
+/home/wg/worker/makefiletest/build/subcmake1/CMakeFiles/subcmake1.dir
+/home/wg/worker/makefiletest/build/subcmake2/CMakeFiles/rebuild_cache.dir
+/home/wg/worker/makefiletest/build/subcmake2/CMakeFiles/edit_cache.dir
+/home/wg/worker/makefiletest/build/subcmake2/CMakeFiles/subcmake2.dir

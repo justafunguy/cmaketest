@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsubcmake2.a  CMakeFiles/subcmake2.dir/sub.cpp.o
+/usr/bin/ranlib libsubcmake2.a
